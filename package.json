@@ -1,0 +1,19 @@
+{
+  "name": "gain2021",
+  "version": "1.0.0",
+  "description": "Update on the gainz app using typescript and AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhart92/gain2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhart92/gain2021/issues"
+  },
+  "homepage": "https://github.com/Bhart92/gain2021#readme"
+}
